@@ -12,6 +12,10 @@ https://www.thingiverse.com/thing:5408737
 
 https://www.printables.com/model/268580-hadley-telescope-remix-metric-mods-more
 
+## metric heat-insert remix
+
+https://www.printables.com/model/339522-hadley-telescope-m4-heat-insert-remix
+
 ## Parts
 
 - Rods: https://www.mcmaster.com/4634T37-4634T373/
