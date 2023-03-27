@@ -35,3 +35,6 @@ https://www.printables.com/model/266322-hadley-secondary-mirror-holder-m4-slotte
 
 https://www.printables.com/model/323680-44-mm-mount-for-amazon-basics-tripod-and-hadley-te
 
+## Newtonian Telescope design
+
+https://www.bbastrodesigns.com/NewtDesigner.html
