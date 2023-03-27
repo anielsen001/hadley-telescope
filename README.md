@@ -17,9 +17,6 @@ https://www.printables.com/model/268580-hadley-telescope-remix-metric-mods-more
 - Rods: https://www.mcmaster.com/4634T37-4634T373/
 - Springs: https://www.mcmaster.com/9434K58/
   
-![](/img/heat_set_inserts.jpg)
-
-![](/img/metric_hardware_kit.jpg)
 ## spiders
 
 Spider that does not require print pausing:
