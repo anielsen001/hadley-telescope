@@ -16,10 +16,17 @@ https://www.printables.com/model/268580-hadley-telescope-remix-metric-mods-more
 
 https://www.printables.com/model/339522-hadley-telescope-m4-heat-insert-remix
 
+## metric with 1/2 rods remix
+
+https://www.printables.com/model/313617-hadley-metric-remix-metric-hardware-and-05-rods
+
 ## Parts
 
-- Rods: https://www.mcmaster.com/4634T37-4634T373/
+- 12 mm Rods: https://www.mcmaster.com/4634T37-4634T373/
 - Springs: https://www.mcmaster.com/9434K58/
+
+- 1/2 in rods: https://www.homedepot.com/p/Everbilt-1-2-in-x-36-in-Aluminum-Round-Rod-801637/204273968
+- springs: https://www.homedepot.com/p/Prime-Line-Compression-Spring-Spring-Steel-Construction-Nickel-Plated-Finish-032-GA-x-3-8-in-x-3-4-in-6-Pack-SP-9702/100204159
   
 ## spiders
 
