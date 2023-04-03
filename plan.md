@@ -25,8 +25,8 @@ Plan is to make a
 
 ### Sites
 
-- [ ] Farsite
-- [ ] Nearsite
+- [ ] Farsite - 0.5 metric remix
+- [ ] Nearsite - 0.5 metric remix
 
 ### Focuser
 

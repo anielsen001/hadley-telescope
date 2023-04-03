@@ -20,6 +20,11 @@ https://www.printables.com/model/339522-hadley-telescope-m4-heat-insert-remix
 
 https://www.printables.com/model/313617-hadley-metric-remix-metric-hardware-and-05-rods
 
+## Focuser 
+
+https://www.printables.com/model/348938-hadley-125-focuser-options/files
+
+
 ## Parts
 
 - 12 mm Rods: https://www.mcmaster.com/4634T37-4634T373/
