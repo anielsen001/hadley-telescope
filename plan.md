@@ -15,18 +15,20 @@ Plan is to make a
 - [X] Sleeve (black), 'Hadley - UTA Assy - UTA Sleeve.stl', official metrix, sleeved prints
 - [X] Secondary mirror cell (black), 'Hadley - UTA Assy - Secondary Mirror Cell.stl'
 - [X] Secondary collimation plate (black), 'Hadley - UTA Assy - Secondary Collimation Plate.stl'
-- [ ] Baffle
+- [X] Baffle
+- [ ] Collimator thumbscrews
+- [ ] mirror mount thumbscrew
 
 ### Lower telescope assembly (LTA)
 
 - [X] Sleeve (black), 'Hadley - LTA Assy - LTA Sleeve.stl', sleeved prints
 - [X] Primary mirror cell (black), 'Hadley - LTA Assy - Primary Mirror Cell.stl'
-
+- [ ] Collimator thumb screws
 
 ### Sites
 
-- [ ] Farsite - 0.5 metric remix
-- [ ] Nearsite - 0.5 metric remix
+- [X] Farsite - 0.5 metric remix (black)
+- [X] Nearsite - 0.5 metric remix (black)
 
 ### Focuser
 
