@@ -24,7 +24,9 @@ https://www.printables.com/model/313617-hadley-metric-remix-metric-hardware-and-
 
 https://www.printables.com/model/348938-hadley-125-focuser-options/files
 
+## Tripod mount
 
+https://www.printables.com/model/323680-44-mm-mount-for-amazon-basics-tripod-and-hadley-te
 ## Parts
 
 - 12 mm Rods: https://www.mcmaster.com/4634T37-4634T373/
