@@ -11,6 +11,7 @@ Plan is to make a
 
 ### Upper telescope Assembly (UTA)
 
+- [ ] UTA for sleeve
 - [X] JWST spider (black), 'Hadley - UTA Assy - Spider.stl', official metric
 - [X] Sleeve (black), 'Hadley - UTA Assy - UTA Sleeve.stl', official metrix, sleeved prints
 - [X] Secondary mirror cell (black), 'Hadley - UTA Assy - Secondary Mirror Cell.stl'
@@ -21,6 +22,7 @@ Plan is to make a
 
 ### Lower telescope assembly (LTA)
 
+- [ ] LTA for sleeve
 - [X] Sleeve (black), 'Hadley - LTA Assy - LTA Sleeve.stl', sleeved prints
 - [X] Primary mirror cell (black), 'Hadley - LTA Assy - Primary Mirror Cell.stl'
 - [ ] Collimator thumb screws
@@ -35,6 +37,9 @@ Plan is to make a
 
 
 ## Stand/mounting 
+
+- [ ] tripod mount
+- [ ] mounting ring ?
 
 ## References
 
