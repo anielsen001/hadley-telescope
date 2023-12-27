@@ -11,26 +11,26 @@ Plan is to make a
 
 ### Upper telescope Assembly (UTA)
 
-- [ ] UTA for sleeve
-- [X] JWST spider (black), 'Hadley - UTA Assy - Spider.stl', official metric
+- [X] [UTA for sleeve](/external/metric-0.5inrod/Hadley%20-%20UTA%20Assy%20-%20UTA%20for%20Sleeve.stl)
+- [X] [JWST spider (black)](/external/metric/Hadley%20-%20UTA%20Assy%20-%20Spider.stl) 'Hadley - UTA Assy - Spider.stl', official metric
 - [X] Sleeve (black), 'Hadley - UTA Assy - UTA Sleeve.stl', official metrix, sleeved prints
 - [X] Secondary mirror cell (black), 'Hadley - UTA Assy - Secondary Mirror Cell.stl'
 - [X] Secondary collimation plate (black), 'Hadley - UTA Assy - Secondary Collimation Plate.stl'
 - [X] Baffle
-- [ ] Collimator thumbscrews
-- [ ] mirror mount thumbscrew
+- [X] Collimator thumbscrews
+- [X] mirror mount thumbscrew
 
 ### Lower telescope assembly (LTA)
 
-- [ ] LTA for sleeve
+- [X] LTA for sleeve
 - [X] Sleeve (black), 'Hadley - LTA Assy - LTA Sleeve.stl', sleeved prints
 - [X] Primary mirror cell (black), 'Hadley - LTA Assy - Primary Mirror Cell.stl'
-- [ ] Collimator thumb screws
+- [X] Collimator thumb screws
 
 ### Sites
 
-- [X] Farsite - 0.5 metric remix (black)
-- [X] Nearsite - 0.5 metric remix (black)
+- [X] Farsite - [0.5 metric remix (black)](/external/metric-0.5inrod/Hadley%20-%20Misc%20-%20Farsight.stl)
+- [X] Nearsite - [0.5 metric remix (black)](/external/metric-0.5inrod/Hadley%20-%20Misc%20-%20Nearsight.stl)
 
 ### Focuser
 
@@ -38,8 +38,11 @@ Plan is to make a
 
 ## Stand/mounting 
 
-- [ ] tripod mount
-- [ ] mounting ring ?
+- tripod mount - very unsteady
+- [ ] mounting ring - ?
+
+- [ ] rocker bearings
+- [ ] hill mount v4
 
 ## References
 
