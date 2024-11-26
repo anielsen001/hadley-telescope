@@ -52,3 +52,9 @@ https://www.printables.com/model/323680-44-mm-mount-for-amazon-basics-tripod-and
 ## Newtonian Telescope design
 
 https://www.bbastrodesigns.com/NewtDesigner.html
+
+## Collimation
+
+https://skyandtelescope.org/astronomy-resources/how-to-align-your-newtonian-reflector-telescope/
+https://telescopicwatch.com/telescope-collimation-guide/
+https://www.astro-baby.com/astrobaby/help/collimation-guide-newtonian-reflector/
